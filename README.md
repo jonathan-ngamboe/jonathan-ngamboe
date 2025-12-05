@@ -31,7 +31,7 @@ Software Engineer specialized in building scalable backend systems with **Java**
 
 ---
 
-### Featured Projects
+### Featured Project
 
 **[Splice](https://github.com/jonathan-ngamboe/splice)**
 > High-concurrency document ingestion engine for RAG pipelines.
@@ -39,12 +39,12 @@ Software Engineer specialized in building scalable backend systems with **Java**
 > * **Highlight:** Hybrid extraction routing (CPU vs GPU) based on complexity analysis.
 
 **[Mentra](https://github.com/jonathan-ngamboe/mentra-frontend)**
-> Modern frontend application for [Brief description of Mentra].
+> Modern frontend application for a career assessment web app to reduce Swiss apprenticeship dropout rates (24% in first year, costing hundreds of thousands in public funds per dropout).
 > * **Stack:** Next.js, TypeScript, React.
 
 ---
 
 ### Connect
 
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ton-profil/)
-[<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ton-email@example.com)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jonathan-ngamboe/)
+[<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nga.jonathan@bluewin.ch)
